@@ -1,0 +1,21 @@
+{
+    "name": "no-syntax-highlight-theme",
+    "displayName": "no_syntax_highlight_theme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "no_syntax_highlight_theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/no_syntax_highlight_theme-color-theme.json"
+            }
+        ]
+    }
+}
