@@ -3,6 +3,8 @@
     "displayName": "no_syntax_highlight_theme",
     "description": "No syntax color theme",
     "version": "0.0.1",
+    "publisher": "gennad",
+    "repository": "https://github.com/gennad/no_syntax_highlight_theme",
     "engines": {
         "vscode": "^1.67.0"
     },
