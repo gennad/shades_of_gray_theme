@@ -1,11 +1,11 @@
 {
-	"name": "no_syntax_highlight_theme",
+	"name": "no-syntax-highlight",
 	"colors": {
-		"activityBar.background": "#1a191a",
-		"activityBar.foreground": "#616161",
+		"activityBar.background": "#100f10",
+		"activityBar.foreground": "#6e6e6e",
 		"activityBarBadge.background": "#222122",
 		"activityBarBadge.foreground": "#bebebe",
-		"editor.background": "#1a191a",
+		"editor.background": "#100f10",
 		"editor.findMatchBackground": "#1c434d",
 		"editor.findMatchHighlightBackground": "#1c434d",
 		"editor.findRangeHighlightBackground": "#29beea",
@@ -19,51 +19,52 @@
 		"editor.wordHighlightStrongBackground": "#29beea",
 		"editorCursor.background": "#ffffff",
 		"editorCursor.foreground": "#29beea",
-		"editorGroupHeader.tabsBackground": "#1a191a",
-		"editorIndentGuide.background": "#1a191a",
-		"editorLineNumber.foreground": "#616161",
-		"editorOverviewRuler.border": "#1a191a",
-		"editorWhitespace.foreground": "#616161",
+		"editorGroupHeader.tabsBackground": "#100f10",
+		"editorIndentGuide.background": "#100f10",
+		"editorLineNumber.foreground": "#6e6e6e",
+		"editorOverviewRuler.border": "#100f10",
+		"editorWhitespace.foreground": "#6e6e6e",
 		"list.activeSelectionBackground": "#1c434d",
 		"list.activeSelectionForeground": "#bebebe",
 		"list.inactiveSelectionBackground": "#222122",
 		"peekViewEditor.matchHighlightBackground": "#222122",
 		"peekViewResult.matchHighlightBackground": "#1c434d",
 		"scrollbar.shadow": "#222122",
-		"sideBar.background": "#1a191a",
+		"sideBar.background": "#100f10",
 		"sideBar.foreground": "#bebebe",
-		"sideBarSectionHeader.background": "#1a191a",
+		"sideBarSectionHeader.background": "#100f10",
 		"sideBarSectionHeader.foreground": "#bebebe",
-		"statusBar.background": "#1a191a",
-		"statusBar.debuggingBackground": "#1a191a",
+		"statusBar.background": "#100f10",
+		"statusBar.debuggingBackground": "#100f10",
 		"statusBar.foreground": "#bebebe",
-		"statusBar.noFolderBackground": "#1a191a",
+		"statusBar.noFolderBackground": "#100f10",
 		"tab.activeBackground": "#222122",
 		"tab.activeBorder": "#222122",
 		"tab.activeForeground": "#bebebe",
-		"tab.border": "#1a191a",
-		"tab.inactiveBackground": "#1a191a",
-		"tab.inactiveForeground": "#616161",
+		"tab.border": "#100f10",
+		"tab.inactiveBackground": "#100f10",
+		"tab.inactiveForeground": "#6e6e6e",
 		"terminalCursor.background": "#ffffff",
 		"terminalCursor.foreground": "#29beea",
-		"titleBar.activeBackground": "#1a191a",
+		"titleBar.activeBackground": "#100f10",
 		"titleBar.activeForeground": "#bebebe",
-		"titleBar.inactiveBackground": "#1a191a",
-		"titleBar.inactiveForeground": "#616161",
+		"titleBar.inactiveBackground": "#100f10",
+		"titleBar.inactiveForeground": "#6e6e6e",
 		"widget.shadow": "#222122",
+		
 	},
 	"tokenColors": [
 		{
 			"scope": "comment, comment punctuation",
 			"settings": {
-				"foreground": "#616161",
+				"foreground": "#6e6e6e",
 				"fontStyle": ""
 			}
 		},
 		{
 			"scope": "punctuation.definition.constant.markdown,punctuation.definition.bold.markdown, punctuation.definition.italic.markdown,punctuation.definition.heading.markdown,punctuation.definition.heading.begin.markdown,punctuation.definition.heading.end.markdown,punctuation.definition.heading.setext.markdown,punctuation.definition.list_item.markdown,markup.list.numbered.bullet.markdown,punctuation.definition.bold.begin.markdown,punctuation.definition.bold.end.markdown,punctuation.definition.italic.begin.markdown,punctuation.definition.italic.end.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
@@ -75,7 +76,7 @@
 		{
 			"scope": "markup.heading.1.markdown,markup.heading.2.markdown,markup.heading.3.markdown,markup.heading.4.markdown,markup.heading.5.markdown,markup.heading.6.markdown,markup.heading.markdown",
 			"settings": {
-				"foreground": "#BEBEBE"
+				"foreground": "#bebebe"
 			}
 		},
 		{
@@ -111,49 +112,49 @@
 		{
 			"scope": "meta.separator.markdown,meta.separator.thematic-break.markdown, punctuation.definition.thematic-break.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "punctuation.definition.constant.begin.markdown, punctuation.definition.constant.end.markdown, punctuation.definition.string.begin.markdown, punctuation.definition.string.end.markdown, punctuation.definition.link.markdown, punctuation.definition.link.begin.markdown, punctuation.definition.link.end.markdown, punctuation.definition.metadata.markdown,punctuation.definition.blockquote.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "punctuation.definition.metadata.markdown,string.other.link.title.markdown,meta.link.inline.markdown,meta.link.reference.markdown,string.other.link.description.title.markdown,meta.link.reference.literal.markdown,punctuation.separator.key-value.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "meta.image.inline.markdown,punctuation.definition.image.begin.markdown,punctuation.definition.image.end.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "meta.image.reference.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "string.other.link.title.markdown",
 			"settings": {
-				"foreground": "#BEBEBE"
+				"foreground": "#bebebe"
 			}
 		},
 		{
 			"scope": "markup.underline",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "constant.character.escape.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
@@ -165,31 +166,31 @@
 		{
 			"scope": "punctuation.definition.raw.code-fence.begin.markdown,punctuation.definition.raw.code-fence.end.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "meta.tag.inline.any.html,meta.tag.block.any.html",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "meta.header.multimarkdown,keyword.other.multimarkdown,string.unquoted.multimarkdown,punctuation.separator.key-value.multimarkdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "constant.other.reference.link.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "punctuation.definition.table-cell-alignment.markdown,punctuation.section.table-header.markdown,punctuation.separator.table-cell.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
@@ -201,43 +202,43 @@
 		{
 			"scope": " meta.link.reference.literal.footnote-id.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "meta.link.reference.def.markdown markup.underline.link.markdown",
 			"settings": {
-				"foreground": "#BEBEBE"
+				"foreground": "#bebebe"
 			}
 		},
 		{
 			"scope": "markup.raw.yaml.front-matter",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "entity.name.reference.link.markdown",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "footnote.delim.pandoc",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "citation.bracket.pandoc",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "footnote.num.pandoc",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
@@ -249,13 +250,13 @@
 		{
 			"scope": "markup.deleted.git_gutter,markup.inserted.git_gutter,markup.changed.git_guttermmarkup.ignored.git_gutter,markup.untracked.git_gutter",
 			"settings": {
-				"foreground": "#616161"
+				"foreground": "#6e6e6e"
 			}
 		},
 		{
 			"scope": "string.other.link.description.markdown",
 			"settings": {
-				"foreground": "#BEBEBE"
+				"foreground": "#bebebe"
 			}
 		},
 		{
