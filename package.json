@@ -1,10 +1,11 @@
 {
-    "name": "no-syntax-highlight-theme",
-    "displayName": "no_syntax_highlight_theme",
-    "description": "No syntax color theme",
+    "name": "shades-of-gray-theme",
+    "displayName": "Shades of gray theme",
+    "description": "A gray theme with no syntax highlight",
     "version": "0.0.1",
     "publisher": "gennad",
-    "repository": "https://github.com/gennad/no_syntax_highlight_theme",
+    "repository": "https://github.com/gennad/shades-of-gray-theme",
+    "defaultInstalled": false,
     "engines": {
         "vscode": "^1.67.0"
     },
@@ -14,9 +15,9 @@
     "contributes": {
         "themes": [
             {
-                "label": "no_syntax_highlight_theme",
+                "label": "Shades of gray theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/no_syntax_highlight_theme-color-theme.json"
+                "path": "./themes/shades-of-gray-color-theme.json"
             }
         ]
     }
