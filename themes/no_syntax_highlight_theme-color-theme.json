@@ -1,5 +1,5 @@
 {
-	"name": "no-syntax-highlight",
+	"name": "shades-of-gray-theme",
 	"colors": {
 		"activityBar.background": "#100f10",
 		"activityBar.foreground": "#6e6e6e",
@@ -50,8 +50,7 @@
 		"titleBar.activeForeground": "#bebebe",
 		"titleBar.inactiveBackground": "#100f10",
 		"titleBar.inactiveForeground": "#6e6e6e",
-		"widget.shadow": "#222122",
-		
+		"widget.shadow": "#222122"
 	},
 	"tokenColors": [
 		{
